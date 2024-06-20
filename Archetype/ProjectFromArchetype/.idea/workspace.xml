@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98069412-1e45-435b-8dd6-0826fe5340ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab2-archetype/1.0-SNAPSHOT/Lab2-archetype-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2-archetype/1.0-SNAPSHOT/Lab2-archetype-1.0-SNAPSHOT.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2-archetype/1.0-SNAPSHOT/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2-archetype/1.0-SNAPSHOT/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2-archetype/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/org/ttriukhan/automatization/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/org/ttriukhan/automatization/Schedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/src/main/java/org/ttriukhan/automatization/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/src/main/java/org/ttriukhan/automatization/ScheduleScraper.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2i9SGh3qwwBKI0pXCHznBSxTyWC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/SummerTrim/Java/Lab2_Triukhan",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SummerTrim\Java\Lab2_Triukhan\Archetype\ProjectFromArchetype\main\src\main\java\org\ttriukhan\automatization" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98069412-1e45-435b-8dd6-0826fe5340ec" name="Changes" comment="" />
+      <created>1718901210503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718901210503</updated>
+      <workItem from="1718901211549" duration="126000" />
+      <workItem from="1718901351604" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

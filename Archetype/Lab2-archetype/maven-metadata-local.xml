@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.ttriukhan.automatization</groupId>
+  <artifactId>Lab2-archetype</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20240620162541</lastUpdated>
+  </versioning>
+</metadata>
